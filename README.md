@@ -32,7 +32,7 @@ We employed a pivot table, filtered by the category "theater," to visualize the 
 
 ### Analysis of Outcomes Based on Goals
 
-We employed a pivot table to visualize the percentage of total projects according to the dollar amount of their goal and the success or failure of their outcome. The dollar amounts of the goals were subdivided into $5,000 increments up to $50,000, with two exceptions: the first category included campaigns with goals under $1,000, and the next category between $1,000 and $4,999; the last category included all campaigns with goals above $50,000. 
+We employed a table to visualize the percentage of total projects according to the dollar amount of their goal and the success or failure of their outcome. The dollar amounts of the goals were subdivided into $5,000 increments up to $50,000, with two exceptions: the first category included campaigns with goals under $1,000, and the next category between $1,000 and $4,999; the last category included all campaigns with goals above $50,000. 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100863488/156617890-33e0abac-2a05-43ac-9c03-273108ae3c2e.png)
 
